@@ -1,0 +1,74 @@
+#title {
+    background-color: #CDF0EA;
+}
+h1{
+    font-family: Montserrat-Black;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #6351ce;
+}
+.container-fluid{
+    padding: 3% 8%;
+}
+.navbar{
+    padding:0 0 4.5rem 0;
+}
+.navbar-brand{
+    font-size: 3rem;
+    font-weight:bold;
+}
+.nav-item{
+    padding:10px 10px 1px 50px;
+}
+.nav-link{
+    font-size:1.5rem;
+}
+
+.title-img{
+    width: 50%;
+    margin-bottom:1.5rem;
+}
+
+.second{
+    text-align: center;
+}
+
+#feature{
+    padding: 4% 7%;
+}
+h5{
+    font-family: Montserrat;
+}
+
+.feature-box{
+   text-align: center;
+}
+
+#blogs{
+background-color: #CDF0EA;
+    padding: 4% 10%;
+
+}
+.design-blog{
+    text-align: center;
+}
+.img-logo{
+    width: 35%;
+    padding: 0 0 2% 0;
+
+}
+
+.carousel-item{
+    align-items: center;
+    text-align: center;
+    margin: 0px 20px 30px;
+}
+#hoverr{
+    background-color: #CDF0EA;
+}
+
+.foot{
+
+    padding-bottom: 20px;
+}
+
